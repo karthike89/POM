@@ -5,3 +5,5 @@ reports
 target
 test-output
 .settings
+.classpath
+.project
